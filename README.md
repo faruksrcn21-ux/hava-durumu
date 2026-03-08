@@ -16,11 +16,13 @@ Bu proje, OpenWeatherMap API'sini kullanarak istenilen şehrin anlık hava durum
 
 ## Kurulum ve Çalıştırma
 
- ### 1. Projeyi çalıştırabilmek için önce dosyaları bilgisayarınıza almanız gerekir:
-* **Seçenek A (Önerilen):** Terminale şu komutu yazarak klonlayın:
- ```bash
-git clone https://www.google.com/search?q=https://github.com/faruksrcn21/hava-durumu.git
+### 1. Projeyi İndirin
+Terminali açın ve şu komutları sırayla çalıştırın:
+
+```bash
+git clone [https://github.com/faruksrcn21/hava-durumu.git](https://github.com/faruksrcn21/hava-durumu.git)
 cd hava-durumu
+
 * **Seçenek B:** GitHub sayfasındaki yeşil **"Code"** butonuna tıklayıp **"Download ZIP"** diyerek indirin ve klasöre çıkartın.
 
 ### 2. Gerekli Kütüphaneleri Yükleyin
