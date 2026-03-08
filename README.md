@@ -29,7 +29,7 @@ Uygulamadan çıkılıyor. Görüşmek üzere!
 Terminali açın ve şu komutları sırayla çalıştırın:
 
 ```bash
-git clone https://github.com/faruksrcn21/hava-durumu.git
+git clone https://github.com/faruksrcn21-ux/hava-durumu.git
 cd hava-durumu
 ```
 * **Seçenek B:** GitHub sayfasındaki yeşil **"Code"** butonuna tıklayıp **"Download ZIP"** diyerek indirin ve klasöre çıkartın.
