@@ -20,16 +20,16 @@ Bu proje, OpenWeatherMap API'sini kullanarak istenilen şehrin anlık hava durum
 Terminali açın ve şu komutları sırayla çalıştırın:
 
 ```bash
-git clone [https://github.com/faruksrcn21/hava-durumu.git](https://github.com/faruksrcn21/hava-durumu.git)
+git clone https://github.com/faruksrcn21/hava-durumu.git
 cd hava-durumu
-
+```
 * **Seçenek B:** GitHub sayfasındaki yeşil **"Code"** butonuna tıklayıp **"Download ZIP"** diyerek indirin ve klasöre çıkartın.
 
 ### 2. Gerekli Kütüphaneleri Yükleyin
 Terminali açın ve proje klasöründeyken aşağıdaki komutu çalıştırın (Bu komut `requests` ve `python-dotenv` kütüphanelerini otomatik yükler):
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. API Anahtarını Ayarlayın
 Uygulamanın veri çekebilmesi için kişisel bir API anahtarına ihtiyacı vardır:
 1. [OpenWeatherMap](https://openweathermap.org/api) adresine gidin ve ücretsiz üye olun.
