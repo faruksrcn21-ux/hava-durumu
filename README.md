@@ -1,7 +1,16 @@
 # 🌤️Python Hava Durumu Uygulaması (Terminal Tabanlı)
 
 Bu proje, OpenWeatherMap API'sini kullanarak istenilen şehrin anlık hava durumu verilerini terminal üzerinden hızlı ve güvenli bir şekilde sunan bir Python uygulamasıdır. 
+```
+--- Hava Durumu Uygulaması ---
 
+Şehir ismi girin (Çıkış için 'q'): istanbul
+
+>>> İstanbul: 8.72°C - Parçalı bulutlu
+
+Şehir ismi girin (Çıkış için 'q'): q
+Uygulamadan çıkılıyor. Görüşmek üzere!
+```
 ## Öne Çıkan Özellikler
 * **API Entegrasyonu:** OpenWeatherMap üzerinden anlık sıcaklık ve hava durumu açıklaması çeker.
 * **Girdi Temizleme (Regex):** Kullanıcının hatalı tuşlamalarını (örneğin rakam veya noktalama işaretleri) arka planda temizleyerek API'ye doğru veriyi gönderir.
