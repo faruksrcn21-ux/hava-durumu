@@ -34,6 +34,6 @@ pip install -r requirements.txt
 Uygulamanın veri çekebilmesi için kişisel bir API anahtarına ihtiyacı vardır:
 1. [OpenWeatherMap](https://openweathermap.org/api) adresine gidin ve ücretsiz üye olun.
 2. "API Keys" sekmesinden ücretsiz anahtarınızı alın.
-3. Proje ana dizininde `.env` dosyası oluşturup anahtarınızı ekleyin.
+3. "Proje dizinindeki .env.example dosyasının adını .env olarak değiştirin ve anahtarınızı ekleyin."
 >
 *Not: Güvenlik nedeniyle benim şahsi anahtarım `.gitignore` ile gizlenmiştir.*
